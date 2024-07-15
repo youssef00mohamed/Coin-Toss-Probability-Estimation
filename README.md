@@ -22,7 +22,7 @@ This Python project applies maximum likelihood estimation (MLE) to estimate the 
 1.**Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/coin-toss-probability-mle.git
+   git clone https://github.com/youssef00mohamed/coin-toss-probability-mle.git
    cd coin-toss-probability-mle
    ```
 

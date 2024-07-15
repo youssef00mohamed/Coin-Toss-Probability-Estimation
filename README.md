@@ -19,7 +19,7 @@ This Python project applies maximum likelihood estimation (MLE) to estimate the 
   
 ## Usage
 
-1. **Clone the repository:**
+1.**Clone the repository:**
 
    ```bash
    git clone https://github.com/your_username/coin-toss-probability-mle.git
@@ -33,6 +33,7 @@ This Python project applies maximum likelihood estimation (MLE) to estimate the 
    ```
 
 3.**View results:**
+   
 - The script will display the likelihood scores and the estimated probability 𝑝 that maximizes the likelihood.
 - Visualizations will show how different probabilities affect the likelihood function.
 
